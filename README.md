@@ -23,9 +23,6 @@
 	
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
-![scktlearn](https://img.shields.io/badge/Scikit%20Learn-F7931E.svg?logo=scikit-learn&logoColor=white)
-![keras](https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 	

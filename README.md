@@ -1,4 +1,4 @@
-### Herkese merhabalar. Ben Osman Köklü. Kendisini Java backend alanında geliştiren yazılım üzerine yoğunlaşan Elektrik-Elektronik mühendisiyim 👋
+Herkese merhabalar. Ben Osman Köklü. Kendisini Java backend alanında geliştiren yazılım üzerine yoğunlaşan Elektrik-Elektronik mühendisiyim 👋
 
 
 

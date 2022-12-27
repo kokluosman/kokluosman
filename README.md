@@ -10,7 +10,6 @@ Herkese merhabalar. Ben Osman Köklü. Kendisini Java backend alanında gelişti
 <p>
 
 ![JAVA](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white)
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 ![PostgreSQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
@@ -22,9 +21,8 @@ Herkese merhabalar. Ben Osman Köklü. Kendisini Java backend alanında gelişti
 <p>
 	
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
-![docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 	
 
 </p>

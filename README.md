@@ -1,4 +1,4 @@
-Herkese merhabalar. Ben Osman Köklü. Kendisini Java backend alanında geliştiren yazılım üzerine yoğunlaşan Elektrik-Elektronik mühendisiyim 👋
+Herkese merhabalar. Ben Osman Köklü. Java backend alanında kendini geliştiren bir mühendisim 👋
 
 
 
@@ -10,7 +10,6 @@ Herkese merhabalar. Ben Osman Köklü. Kendisini Java backend alanında gelişti
 <p>
 
 ![JAVA](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 ![PostgreSQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
 
@@ -21,7 +20,6 @@ Herkese merhabalar. Ben Osman Köklü. Kendisini Java backend alanında gelişti
 <p>
 	
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 	
 
@@ -43,7 +41,6 @@ Herkese merhabalar. Ben Osman Köklü. Kendisini Java backend alanında gelişti
 <p>
 
 ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![VsCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 

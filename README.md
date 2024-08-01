@@ -1,7 +1,7 @@
 Hi, I am Osman Köklü 👋
 
 
-I graduated from Erciyes University Faculty of Engineering as an Electricity and Electronics Engineer. Currently I am a Software Developer.
+I graduated from Erciyes University Faculty of Engineering as an Electricity and Electronics Engineer. Currently I am a Java Software Developer.
 I am currently working on with following technologies :
 
 ### 👨‍💻 Programming and markup languages

@@ -10,6 +10,7 @@ Herkese merhabalar. Ben Osman Köklü. Java backend alanında kendini geliştire
 <p>
 
 ![JAVA](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 ![PostgreSQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
 
 </p>
@@ -31,7 +32,7 @@ Herkese merhabalar. Ben Osman Köklü. Java backend alanında kendini geliştire
 <p>
 	
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?logo=bitbucket&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)
 	
 	
@@ -42,8 +43,9 @@ Herkese merhabalar. Ben Osman Köklü. Java backend alanında kendini geliştire
 <p>
 
 ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![VsCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC.svg?logo=jira&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white)
 
 </p>
 
